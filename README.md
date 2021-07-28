@@ -21,4 +21,4 @@ Project Images:
 
 ❏ Login Screen:
 
-<img src="https://user-images.githubusercontent.com/61109207/127391731-7f2d0371-52dc-4ba3-a822-6534712ef648.png", width="100" height="100">
+<img src="https://user-images.githubusercontent.com/61109207/127391731-7f2d0371-52dc-4ba3-a822-6534712ef648.png" width="100" height="100">
