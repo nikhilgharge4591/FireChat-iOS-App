@@ -27,6 +27,9 @@ Project Images:
 
  <img src="https://user-images.githubusercontent.com/61109207/127395897-d3b80102-ba6a-4ff6-b689-b90d45ac0f47.png" width="220" height="450"> <img height="350" hspace="20"/><img src="https://user-images.githubusercontent.com/61109207/127396107-e8a732b2-b6c6-41d7-a9a7-47afbe471c72.png" width="220" height="450">
 
+❏ Profile Screen and Registration Screen:
+
+ <img src="https://user-images.githubusercontent.com/61109207/127396592-9351c30e-a62d-49ef-8693-f09ccad8d592.png" width="220" height="450"> <img height="350" hspace="20"/><img src="https://user-images.githubusercontent.com/61109207/127396797-2a228e52-0234-47db-be75-a5c2d79cd805.png" width="220" height="450">
 
 
 
