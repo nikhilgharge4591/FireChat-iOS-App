@@ -22,4 +22,7 @@ Project Images:
 ❏ Login Screen:
 
 <img src="https://user-images.githubusercontent.com/61109207/127391731-7f2d0371-52dc-4ba3-a822-6534712ef648.png" width="200" height="400">
+
+❏ Logout Screen:
+
 <img src="https://user-images.githubusercontent.com/61109207/127394175-d9884573-1068-46e0-bb03-60d3dadaa325.png" width="200" height="400">
