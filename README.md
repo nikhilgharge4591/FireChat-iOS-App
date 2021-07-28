@@ -21,11 +21,11 @@ Project Images:
 
 ❏ Login Screen and Logout Screen:
 
-<img src="https://user-images.githubusercontent.com/61109207/127391731-7f2d0371-52dc-4ba3-a822-6534712ef648.png" width="250" height="400"> <img height="350" hspace="20"/><img src="https://user-images.githubusercontent.com/61109207/127394175-d9884573-1068-46e0-bb03-60d3dadaa325.png" width="250" height="400">
+<img src="https://user-images.githubusercontent.com/61109207/127391731-7f2d0371-52dc-4ba3-a822-6534712ef648.png" width="200" height="450"> <img height="350" hspace="20"/><img src="https://user-images.githubusercontent.com/61109207/127394175-d9884573-1068-46e0-bb03-60d3dadaa325.png" width="200" height="450">
 
 ❏ Messages Screen and New Message Screen:
 
- <img src="https://user-images.githubusercontent.com/61109207/127395897-d3b80102-ba6a-4ff6-b689-b90d45ac0f47.png" width="250" height="400"> <img height="350" hspace="20"/><img src="https://user-images.githubusercontent.com/61109207/127396107-e8a732b2-b6c6-41d7-a9a7-47afbe471c72.png" width="250" height="400">
+ <img src="https://user-images.githubusercontent.com/61109207/127395897-d3b80102-ba6a-4ff6-b689-b90d45ac0f47.png" width="200" height="450"> <img height="350" hspace="20"/><img src="https://user-images.githubusercontent.com/61109207/127396107-e8a732b2-b6c6-41d7-a9a7-47afbe471c72.png" width="200" height="450">
 
 
 
